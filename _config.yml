@@ -1,0 +1,95 @@
+---
+booktitle: Proceedings of the NeurIPS 2021 Competitions and Demonstrations Track
+shortname: 'NeurIPS 2021: Competitions and Demonstrations'
+volume: '176'
+year: '2022'
+start: 2022-12-06
+end: 2022-12-14
+published: 2022-07-20
+sections:
+- name: Preface
+  title: Preface
+- name: Competitions
+  title: Competitions
+- name: Demonstrations
+  title: Demonstrations
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: NEURIPS-DEMOS-COMPETITIONS-2021
+month: 0
+cycles: false
+bibtex_editor: Kiela, Douwe and Ciccone, Marco and Caputo, Barbara
+editor:
+- given: Douwe
+  family: Kiela
+- given: Marco
+  family: Ciccone
+- given: Barbara
+  family: Caputo
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the NeurIPS 2021 Competitions and Demonstrations Track
+    Held in Online on 06-14 December 2022
+
+  Published as Volume 176 by the Proceedings of Machine Learning Research on 20 July 2022.
+
+  Volume Edited by:
+    Douwe Kiela
+    Marco Ciccone
+    Barbara Caputo
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 06--14 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v176"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v176
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v176
+email: ''
+conference:
+  name: NeurIPS 2021 Competitions and Demonstrations Track
+  url: https://neurips.cc/Conferences/2021
+  location: Online
+  dates:
+  - 2022-12-06
+  - 2022-12-07
+  - 2022-12-08
+  - 2022-12-09
+  - 2022-12-10
+  - 2022-12-11
+  - 2022-12-12
+  - 2022-12-13
+  - 2022-12-14
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/home/markus/repos/mlresearch/v176/neurips_2021_competitions_demos_escaped.bib"
+# Site settings
+# Original source:  /home/markus/repos/mlresearch/v176/neurips_2021_competitions_demos_escaped.bib
